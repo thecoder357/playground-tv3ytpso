@@ -11,8 +11,8 @@ total=(5*5+2)
 print(total)
 ```
 
-
-input("number of stars")
+imput=imput
+input=("number of stars")
 
 
 
