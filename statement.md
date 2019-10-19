@@ -6,6 +6,9 @@ This Python template lets you get started quickly with a simple one-page playgro
 total=(5+5)
 print(total)
 
+
+total=(5*5+2)
+print(total)
 ```
 
 # Advanced usage
