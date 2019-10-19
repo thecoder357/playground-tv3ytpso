@@ -3,7 +3,8 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print("zane")
+total(5+5)
+print(total)
 
 ```
 
