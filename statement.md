@@ -11,6 +11,15 @@ total=(5*5+2)
 print(total)
 ```
 
+
+input("number of stars")
+
+
+
+
+
+
+
 # Advanced usage
 
 If you want a more complex example (external libraries, viewers...), use the [Advanced Python template](https://tech.io/select-repo/429)
